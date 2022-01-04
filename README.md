@@ -1,1 +1,0 @@
-# jorizaylaineborje.github.io
