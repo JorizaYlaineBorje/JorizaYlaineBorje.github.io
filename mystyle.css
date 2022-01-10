@@ -8,14 +8,14 @@
         font-weight: bold;
         text-align: center;
         border-bottom: 6px solid tomato;
-        background-color: lightgrey;
+        background-color: rgb(255, 225, 71);
         color: #ff951e     
       }
       .end {
         font-size: 30px;
         font-weight: bold;
         text-align: center;
-        color: tomato;
+        color: #ff951e
       }
       .info {
         font-size: 35px;
