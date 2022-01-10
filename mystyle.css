@@ -4,13 +4,12 @@
       }
 
       #title {
-        border-bottom: 6px solid tomato;
-        background-color: light-grey;
         font-size: 40px;
         font-weight: bold;
         text-align: center;
+        background-color: light-grey;
         color: #e5d155
-        
+        border-bottom: 6px solid tomato;
       }
       .end {
         font-size: 30px;
