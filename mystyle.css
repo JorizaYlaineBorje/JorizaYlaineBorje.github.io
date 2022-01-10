@@ -14,11 +14,19 @@
       }
       .end {
         font-size: 30px;
+        font-weight: bold;
+        text-align: center;
         color: tomato;
       }
       .info {
         font-size: 35px;
+        text-align: center;
         color: #9dc8cc
+     }
+     img {
+      margin-left: auto;
+      margin-right: auto;
+
 }
 </style>
 </body>
