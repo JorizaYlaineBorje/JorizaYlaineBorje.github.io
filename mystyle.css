@@ -28,7 +28,7 @@
       margin-right: auto;
       width=40%;
       }      
-     #Javascript demo {
+     #Javascript, demo {
            font-size: 35px;
            text-align: center;
            color: #9dc8cc
@@ -45,4 +45,9 @@
            text-align: center;
            text-decoration: none;
            font-size: 16px;
+      }
+     #demo {
+           font-size: 10px;
+           text-align: center;
+           color: #ff951e
 }
