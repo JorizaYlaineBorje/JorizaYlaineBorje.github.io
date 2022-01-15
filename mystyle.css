@@ -34,6 +34,7 @@
            color: #9dc8cc
      }           
      button {
+           display: block;
            margin-left: auto;
            margin-right: auto;
            border: none;
